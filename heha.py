@@ -256,7 +256,7 @@ def Logo():
   {y}--------------------------------------------------
    {w}🆔 Device: {g}{dev_id}
    {w}🔑 Status: {status_text} {w}| ⏰ Left: {exp_text}
-   {w}📡 tg: {g}@kuranomi10 devloper: {w}@SYnX
+   {w}📡 tg: {g}@Yng507 devloper: {w}@Yng507
   {y}--------------------------------------------------{w}"""
     print(logo)
 
